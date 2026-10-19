@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/life4/deal/commit/751c0a7ebdf8527c8231b15038e4656d2a6a75c6",
       "git:hexsha": "751c0a7ebdf8527c8231b15038e4656d2a6a75c6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.24.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.24.6",
+      "repolex:parsedAt": "2026-10-19T11:48:20.750018+00:00"
     },
     {
       "@id": "https://repolex.ai/r/life4/deal/commit/8e247bf72c63b8b3a4282b8a67801ae83ddb4ee7",
